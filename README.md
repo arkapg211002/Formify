@@ -2,6 +2,16 @@
 ## Formify
 ### Application to build and share online forms
 
+![1](https://github.com/arkapg211002/Formify/blob/main/Formify1.png)
+![2](https://github.com/arkapg211002/Formify/blob/main/Formify2.png)
+![3](https://github.com/arkapg211002/Formify/blob/main/Formify3.png)
+![4](https://github.com/arkapg211002/Formify/blob/main/Formify4.png)
+![5](https://github.com/arkapg211002/Formify/blob/main/Formify5.png)
+![6](https://github.com/arkapg211002/Formify/blob/main/Formify6.png)
+![7](https://github.com/arkapg211002/Formify/blob/main/Formify7.png)
+![8](https://github.com/arkapg211002/Formify/blob/main/Formify8.png)
+![9](https://github.com/arkapg211002/Formify/blob/main/Formify9.png)
+
 ## Getting Started
 
 First, run the development server:
