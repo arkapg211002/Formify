@@ -25,7 +25,7 @@ function Header() {
           <nav className="flex flex-wrap items-center mb-5 text-base md:mb-0 md:pl-8 md:ml-8 md:border-l md:border-gray-200">
             <Link href="/" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Home</Link>
             <Link href="https://arkapg211002.github.io/" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-[#000000]">Portfolio</Link>
-            <Link href="https://www.linkedin.com/in/arkapratim-ghosh21102002/" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-[#000000]">LinkedIn</Link>
+            <Link href="https://www.linkedin.com/in/arkapratimghosh2002/" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-[#000000]">LinkedIn</Link>
             <Link href="https://github.com/arkapg211002" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-[#000000]">GitHub</Link>
           </nav>
         </div>
